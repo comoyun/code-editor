@@ -1,7 +1,8 @@
 /*
-    Name: consoleJS
-    Created by Khumoyun,
+    consoleJS
+    Created by Khumoyun
     https://github.com/comoyun
+    2020
 */
 
 "use strict";
