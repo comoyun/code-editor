@@ -1,7 +1,7 @@
 /*
     Name: consoleJS
     Created by Khumoyun,
-    https://github.com/XumoyunSattoraliyev
+    https://github.com/comoyun
 */
 
 "use strict";
